@@ -2,6 +2,9 @@
 The ubiquitous "Hello, World!" program.
 
 ## Languages
+* [x] Assembly
+    - `make hello-world-asm`
+    - `./hello-world-asm`
 * [x] C
     - `make hello-world-c`
     - `./hello-world-c`
@@ -11,8 +14,6 @@ The ubiquitous "Hello, World!" program.
 * [x] Golang
     - `make hello-world-go`
     - `./hello-world-go`
-* [x] Python
-    - `./hello-world.py`
 * [x] Java
     - `make HelloWorld.class`
     - `java HelloWorld`
@@ -21,3 +22,5 @@ The ubiquitous "Hello, World!" program.
 * [x] Pascal
     - `make hello-world-pas`
     - `./hello-world-pas`
+* [x] Python
+    - `./hello-world.py`

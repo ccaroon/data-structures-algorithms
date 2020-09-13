@@ -5,10 +5,10 @@ Data Structures & Algorithms in various languages.
 * [C](https://www.cprogramming.com/)
 * [C++](https://isocpp.org/get-started)
 * [Golang](https://golang.org/)
-* [Python](https://www.python.org/)
 * [Java](https://www.oracle.com/java/)
 * [JavaScript](https://nodejs.org/en/)
 * [Pascal](https://wiki.freepascal.org/)
+* [Python](https://www.python.org/)
 
 ## Data Structures
 ...
