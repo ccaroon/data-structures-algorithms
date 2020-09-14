@@ -11,10 +11,16 @@ Data Structures & Algorithms in various languages.
 * [Python](https://www.python.org/)
 
 ## Data Structures
-...
+* Linked List
+* Hash Table/Map
 
 ## Algorithms
-...
+### Sorting
+* Bubble Sort
+* Selection Sort
+* Insertion Sort
+* Merge Sort
+* Quick Sort
 
 ## Other
 * [hello-world](./hello-world/README.md)
