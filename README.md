@@ -24,3 +24,4 @@ Data Structures & Algorithms in various languages.
 
 ## Other
 * [hello-world](./hello-world/README.md)
+* [factorial](./factorial/README.md)
