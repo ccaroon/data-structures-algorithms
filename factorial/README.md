@@ -25,7 +25,7 @@ By Convention `0! = 1`.
     - `java Factorial`
 * [ ] JavaScript
     - `./factorial.js`
-* [ ] Pascal
+* [x] Pascal
     - `make factorial-pas`
     - `./factorial-pas`
 * [ ] Python
