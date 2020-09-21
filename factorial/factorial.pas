@@ -4,6 +4,7 @@ program ComputeFactorial(input, output);
 { ---------------------------------------------------------------------------- }
 { Function & Procedures }
 { ---------------------------------------------------------------------------- }
+{ Compute Factorial Recursively }
 function Factorial(n: integer): double;
 begin
     if (n = 0) or (n = 1) then
