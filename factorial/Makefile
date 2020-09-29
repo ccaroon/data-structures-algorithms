@@ -30,6 +30,7 @@ factorial-pas: factorial.pas
 
 # Meta
 clean:
+	rm -f a.out
 	rm -f factorial-c
 	rm -f factorial-go
 	rm -f factorial-c++

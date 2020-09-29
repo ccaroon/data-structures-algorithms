@@ -11,7 +11,7 @@ By Convention `0! = 1`.
 * [ ] Assembly
     - `make factorial-asm`
     - `./factorial-asm`
-* [ ] C
+* [x] C
     - `make factorial-c`
     - `./factorial-c`
 * [ ] C++
@@ -20,7 +20,7 @@ By Convention `0! = 1`.
 * [ ] Golang
     - `make factorial-go`
     - `./factorial-go`
-* [ ] Java
+* [x] Java
     - `make Factorial.class`
     - `java Factorial`
 * [ ] JavaScript

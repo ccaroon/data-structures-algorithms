@@ -15,19 +15,20 @@ end;
 { ---------------------------------------------------------------------------- }
 
 { -------------------------------- Main -------------------------------------- }
+
 var input: integer;
+
 var result: double;
 begin
     writeln('** Compute Factorial **');
     write('Enter An Integer: ');
     readln(input);
 
-    if input > 170 then
-        writeln('Sorry, ', input, '! ',
-                'is a *really* big number. I can''t compute that. :(')
-    else
+    if (input >= 0) and (input <= 170) then
         begin;
             result := Factorial(input);
             writeln(input, '! = ', result:1:0);
-        end;
+        end
+    else
+        writeln('Sorry! Can''t compute !',input);
 end.
