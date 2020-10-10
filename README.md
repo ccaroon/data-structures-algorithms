@@ -11,7 +11,7 @@ Data Structures & Algorithms in various languages.
 * [Python](https://www.python.org/)
 
 ## Data Structures
-* Linked List
+* [Linked List](./linked-list/README.md)
 * Hash Table/Map
 
 ## Algorithms
